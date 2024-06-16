@@ -12,6 +12,7 @@ public class Waypoint : MonoBehaviour
         {
             //Debug.Log(transform.name);
             Instantiate(towerPrefab, transform.position, Quaternion.identity);
+            isPlaceable = false;
         }
     }
 }
