@@ -48,13 +48,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2859945970571561230, guid: 065aacf1223c14f3294fc774d7c8db00, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5146324309779230098, guid: 065aacf1223c14f3294fc774d7c8db00, type: 3}
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: -2432090755550338912, guid: 626410dc07212d749823da2540a223bb, type: 3}
     - target: {fileID: 5208492305034352640, guid: 065aacf1223c14f3294fc774d7c8db00, type: 3}
       propertyPath: m_Name
-      value: Tile_CornerPiece
+      value: Tile_RoadCorner
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
